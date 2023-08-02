@@ -59,3 +59,18 @@ body {
     -ms-transition: opasity 0.3s ease-in 0.4s;
     -o-transition: opasity 0.3s ease-in 0.4s;
 }
+.slide.one{
+    background-image: url(../img/Autumn_park.jpg);
+}
+.slide.two{
+    background-image: url(../img/Lake.jpg);
+}
+.slide.three{
+    background-image: url(../img/Balloons.jpg);
+}
+.slide.four{
+    background-image: url(../img/Mountain_landscape.jpeg);
+}
+.slide.five{
+    background-image: url(../img/Sandy_beach.jpeg);
+}
