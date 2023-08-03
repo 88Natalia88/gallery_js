@@ -13,7 +13,7 @@ Creating a gallery of cards as part of a marathon from Result School "Marathon: 
 ​
 ## Result
 ​
-![Image alt](https://github.com/88Natalia88/task_scheduler/blob/main/gallery.png)
+![Image alt](https://github.com/88Natalia88/gallery_js/blob/main/gallery.png)
 
 ​
 ## Author
